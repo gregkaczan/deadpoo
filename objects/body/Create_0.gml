@@ -1,8 +1,9 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-var mainFixture,
-o_leg1_id, o_leg1_1_id, 
+var mainFixture;
+
+var o_leg1_id, o_leg1_1_id, 
 o_leg2_id, o_leg2_1_id,
 o_leg3_id, o_leg3_1_id, 
 o_leg4_id, o_leg4_1_id, 
@@ -13,21 +14,9 @@ o_head_id,
 o_toot_id,
 o_feeler_1_id, o_feeler_2_id,
 o_wing_1_id, o_wing_2_id,
-o_eye_1_id, o_eye_2_id,
+o_eye_1_id, o_eye_2_id;
 
-joint1, joint1_1,
-joint2, joint2_1,
-joint3, joint3_1,
-joint4, joint4_1,
-joint5, joint5_1,
-joint6, joint6_1,
 
-joint_toot,
-joint_feeler_1, joint_feeler_2,
-joint_wing_1, joint_wing_2,
-joint_eye_1, joint_eye_2,
-
-jointhead;
 mainFixture = physics_fixture_create();
 physics_fixture_set_circle_shape(mainFixture, sprite_get_width(sprite_index) / 2);
 
@@ -78,8 +67,8 @@ physics_fixture_bind(mainFixture, o_eye_2_id);
 
 physics_fixture_bind(mainFixture, o_head_id);
 
-joint1 = physics_joint_revolute_create(id, o_leg1_id, o_leg1_id.x, o_leg1_id.y, -130, 130, 1, 10, 10, 0, 0);
-joint1_1 = physics_joint_revolute_create(o_leg1_id, o_leg1_1_id, o_leg1_1_id.x, o_leg1_1_id.y, -130, 130, 1, 10, 10, 0, 0);
+global.joint1 = physics_joint_revolute_create(id, o_leg1_id, o_leg1_id.x, o_leg1_id.y, -130, 130, 1, 10, 10, 0, 0);
+global.joint1_1 = physics_joint_revolute_create(o_leg1_id, o_leg1_1_id, o_leg1_1_id.x, o_leg1_1_id.y, -130, 130, 1, 10, 10, 0, 0);
 joint2 = physics_joint_revolute_create(id, o_leg2_id, o_leg2_id.x, o_leg2_id.y, -130, 130, 1, 10, 10, 0, 0);
 joint2_1 = physics_joint_revolute_create(o_leg2_id, o_leg2_1_id, o_leg2_1_id.x, o_leg2_1_id.y, -130, 130, 1, 10, 10, 0, 0);
 joint3 = physics_joint_revolute_create(id, o_leg3_id, o_leg3_id.x, o_leg3_id.y, -130, 130, 1, 10, 10, 0, 0);
