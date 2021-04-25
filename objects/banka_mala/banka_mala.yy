@@ -8,8 +8,8 @@
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "banka",
-    "path": "objects/banka/banka.yy",
+    "name": "przeszkadzajki",
+    "path": "objects/przeszkadzajki/przeszkadzajki.yy",
   },
   "physicsObject": true,
   "physicsSensor": false,

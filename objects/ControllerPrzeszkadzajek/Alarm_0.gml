@@ -4,4 +4,4 @@ Gen(1,banka,1);
 Gen(1,banka_mala,1);
 Gen(1,covid,1);
 //Gen(1,covid);
-alarm_set(0,50)
+alarm_set(0,250)
