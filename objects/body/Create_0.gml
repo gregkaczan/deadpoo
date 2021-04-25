@@ -42,6 +42,7 @@ o_eye_1_id = eye_1
 o_eye_2_id = eye_2;
 
 o_head_id=head
+o_head_eyelids_id=head_eyelids
 
 physics_fixture_bind(mainFixture, id);
 physics_fixture_bind(mainFixture, o_leg1_id);
