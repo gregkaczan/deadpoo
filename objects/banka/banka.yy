@@ -7,7 +7,10 @@
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "przeszkadzajki",
+    "path": "objects/przeszkadzajki/przeszkadzajki.yy",
+  },
   "physicsObject": true,
   "physicsSensor": false,
   "physicsShape": 0,
