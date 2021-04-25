@@ -23,10 +23,10 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [
-    {"x":169.0,"y":324.0,},
-    {"x":3612.0,"y":324.0,},
-    {"x":3612.0,"y":805.0,},
-    {"x":169.0,"y":805.0,},
+    {"x":248.0,"y":215.0,},
+    {"x":2481.0,"y":215.0,},
+    {"x":2481.0,"y":596.0,},
+    {"x":248.0,"y":596.0,},
   ],
   "eventList": [
     {"isDnD":false,"eventNum":2,"eventType":2,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
