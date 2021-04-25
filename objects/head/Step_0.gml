@@ -1,28 +1,20 @@
-/// @description Insert description here
-// You can write your code in this editor
-
-var damp = 5;
-
-//PooMouseDrowning(id,tempy);
-tempy = mouse_y
-
 if (phy_linear_velocity_x < 0) {
-	phy_linear_velocity_x += damp;
+	phy_linear_velocity_x += 3;
 } else {
-	phy_linear_velocity_x -= damp;
+	phy_linear_velocity_x -= 3;
 }
 
 if (phy_linear_velocity_y < 0) {
-	phy_linear_velocity_y += damp;
+	phy_linear_velocity_y += 3;
 } else {
-	phy_linear_velocity_y -= damp;
+	phy_linear_velocity_y -= 3;
 }
 
 
 if (phy_angular_velocity < 0) {
-	phy_angular_velocity += 0.3;
+	phy_angular_velocity += 1;
 } else {
-	phy_angular_velocity -= 0.3;
+	phy_angular_velocity -= 1;
 }
 
 
