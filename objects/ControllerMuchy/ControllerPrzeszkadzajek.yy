@@ -30,7 +30,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Controller",
+  "name": "ControllerPrzeszkadzajek",
   "tags": [],
   "resourceType": "GMObject",
 }

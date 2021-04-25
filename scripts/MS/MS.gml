@@ -3,7 +3,7 @@
 function LeftRightFlow(obj_id,force){
 	rand_dir = irandom_range(-force,force);
 	with(obj_id){
-		
+		alarm_set(0,100);
 		physics_apply_force(obj_id.x,obj_id.y,rand_dir,0)
 			
 	}
