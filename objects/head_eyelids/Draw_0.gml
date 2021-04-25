@@ -9,7 +9,7 @@ draw_sprite_ext(Sprite19, s, head.x, head.y, head.image_xscale, head.image_yscal
 
 if (ind == 6) {
 	global.mucha.exhausted = true;
-	alarm_set(0, 200);
+	alarm_set(0, 400);
 }
 
 draw_self();

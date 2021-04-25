@@ -1,6 +1,6 @@
 
 if (global.mucha.energy <= 100) {
-	global.mucha.energy += 0.15;
+	global.mucha.energy += 0.1;
 }
 
 global.mucha.air -= 0.001;
