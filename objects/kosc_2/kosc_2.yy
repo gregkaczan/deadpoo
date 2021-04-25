@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_kosc_2",
+    "path": "sprites/spr_kosc_2/spr_kosc_2.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
