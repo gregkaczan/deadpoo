@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_kosc",
-    "path": "sprites/spr_kosc/spr_kosc.yy",
+    "name": "spr_kosc_2",
+    "path": "sprites/spr_kosc_2/spr_kosc_2.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,12 +21,12 @@
   "physicsAngularDamping": 0.1,
   "physicsFriction": 0.2,
   "physicsStartAwake": true,
-  "physicsKinematic": false,
+  "physicsKinematic": true,
   "physicsShapePoints": [
-    {"x":645.0,"y":315.0,},
-    {"x":1359.0,"y":315.0,},
-    {"x":1359.0,"y":2197.0,},
-    {"x":645.0,"y":2197.0,},
+    {"x":233.0,"y":215.0,},
+    {"x":2483.0,"y":215.0,},
+    {"x":2483.0,"y":614.0,},
+    {"x":233.0,"y":614.0,},
   ],
   "eventList": [
     {"isDnD":false,"eventNum":1,"eventType":2,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
