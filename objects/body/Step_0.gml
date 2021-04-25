@@ -30,5 +30,12 @@ phy_linear_velocity_x = clamp(phy_linear_velocity_x, -30000, 30000);
 phy_linear_velocity_y = clamp(phy_linear_velocity_y, -30000, 30000);
 phy_angular_velocity = clamp(phy_angular_velocity, -2000, 2000);
 
-// fake gravity
-phy_linear_velocity_y += 10;
+
+
+if (phy_position_y > -500) {
+	// fake buoancy
+	phy_linear_velocity_y -= 15;
+} else {
+	physics_apply_force(x, y, 0, 80000);
+}
+	
