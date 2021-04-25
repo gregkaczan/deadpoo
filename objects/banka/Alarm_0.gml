@@ -1,4 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-LeftRightFlow(id,1000);
-alarm_set(0,100)
+tick *= -1;
+LeftRightFlow(id,100000 * tick);
+alarm_set(0,40)
