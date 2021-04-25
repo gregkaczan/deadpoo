@@ -32,6 +32,8 @@
     {"id":{"name":"spr_Eye","path":"sprites/spr_Eye/spr_Eye.yy",},"order":8,},
     {"id":{"name":"leg_right_down","path":"scripts/leg_right_down/leg_right_down.yy",},"order":8,},
     {"id":{"name":"leg1_1","path":"objects/leg1_1/leg1_1.yy",},"order":6,},
+    {"id":{"name":"spr_text","path":"sprites/spr_text/spr_text.yy",},"order":30,},
+    {"id":{"name":"spr_head_dead","path":"sprites/spr_head_dead/spr_head_dead.yy",},"order":29,},
     {"id":{"name":"head","path":"objects/head/head.yy",},"order":5,},
     {"id":{"name":"go_right","path":"scripts/go_right/go_right.yy",},"order":5,},
     {"id":{"name":"BankaSequence1","path":"sequences/BankaSequence1/BankaSequence1.yy",},"order":1,},
@@ -126,8 +128,8 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"intro","path":"rooms/intro/intro.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"intro","path":"rooms/intro/intro.yy",},},
     {"roomId":{"name":"outro","path":"rooms/outro/outro.yy",},},
   ],
   "Folders": [

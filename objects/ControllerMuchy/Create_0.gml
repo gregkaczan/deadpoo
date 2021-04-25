@@ -6,3 +6,6 @@ global.mucha = {
 	exhausted: false,
 	dead: false
 }
+
+alarm_set(2, 120);
+draw_info = false;

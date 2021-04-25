@@ -23,5 +23,5 @@ phy_linear_velocity_y = clamp(phy_linear_velocity_y, -30000, 30000);
 phy_angular_velocity = clamp(phy_angular_velocity, -2000, 2000);
 
 if (global.mucha.dead == true) {
-	image_index = 1;
+	sprite_index = spr_head_dead;
 }

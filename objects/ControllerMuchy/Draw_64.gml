@@ -1,6 +1,4 @@
 
-
-//draw_healthbar( 50,220,200,250,(global.mucha.air / global.mucha.maxair) * 100 , c_grey, c_blue, c_blue,-1,0,1)
-//draw_healthbar( 50,270,200,300,(global.mucha.energy / global.mucha.maxenergy) * 100 , c_grey, c_orange, c_orange,-1,0,1)
-
-
+if (draw_info) {
+	draw_sprite_ext(spr_text, 0, window_get_width() / 2 + 200, window_get_height() / 2 - 250, 0.3, 0.3, 0, c_white, 1);
+}
