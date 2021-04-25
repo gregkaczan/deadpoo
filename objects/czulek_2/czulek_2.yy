@@ -11,7 +11,7 @@
   "physicsObject": true,
   "physicsSensor": false,
   "physicsShape": 1,
-  "physicsGroup": 3,
+  "physicsGroup": 4,
   "physicsDensity": 0.5,
   "physicsRestitution": 0.1,
   "physicsLinearDamping": 0.1,
@@ -20,10 +20,10 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [
-    {"x":55.0,"y":47.0,},
-    {"x":162.0,"y":47.0,},
+    {"x":136.0,"y":280.0,},
+    {"x":162.0,"y":280.0,},
     {"x":162.0,"y":287.0,},
-    {"x":55.0,"y":287.0,},
+    {"x":136.0,"y":287.0,},
   ],
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
