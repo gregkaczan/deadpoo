@@ -4,4 +4,4 @@ show_debug_message(instance_number(przeszkadzajki));
 cleaner(6000)
 show_debug_message(instance_number(przeszkadzajki));
 
-alarm_set(5,300)
+alarm_set(5,200)
