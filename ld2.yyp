@@ -34,6 +34,7 @@
     {"id":{"name":"trabka","path":"objects/trabka/trabka.yy",},"order":18,},
     {"id":{"name":"banka","path":"objects/banka/banka.yy",},"order":0,},
     {"id":{"name":"spr_leg","path":"sprites/spr_leg/spr_leg.yy",},"order":1,},
+    {"id":{"name":"bg","path":"objects/bg/bg.yy",},"order":9,},
     {"id":{"name":"leg3","path":"objects/leg3/leg3.yy",},"order":10,},
     {"id":{"name":"leg5_1","path":"objects/leg5_1/leg5_1.yy",},"order":9,},
     {"id":{"name":"go_left","path":"scripts/go_left/go_left.yy",},"order":6,},
