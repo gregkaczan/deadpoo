@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_intro_fly",
-    "path": "sprites/spr_intro_fly/spr_intro_fly.yy",
+    "name": "spr_intro_fly_1",
+    "path": "sprites/spr_intro_fly_1/spr_intro_fly_1.yy",
   },
   "solid": false,
   "visible": true,
