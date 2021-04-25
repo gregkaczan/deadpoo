@@ -26,6 +26,7 @@
     {"id":{"name":"leg1_1","path":"objects/leg1_1/leg1_1.yy",},"order":6,},
     {"id":{"name":"head","path":"objects/head/head.yy",},"order":5,},
     {"id":{"name":"go_right","path":"scripts/go_right/go_right.yy",},"order":5,},
+    {"id":{"name":"BankaSequence1","path":"sequences/BankaSequence1/BankaSequence1.yy",},"order":1,},
     {"id":{"name":"spr_head_blink","path":"sprites/spr_head_blink/spr_head_blink.yy",},"order":7,},
     {"id":{"name":"spr_czulki","path":"sprites/spr_czulki/spr_czulki.yy",},"order":6,},
     {"id":{"name":"pasozyt","path":"objects/pasozyt/pasozyt.yy",},"order":6,},
@@ -53,6 +54,7 @@
     {"id":{"name":"leg5","path":"objects/leg5/leg5.yy",},"order":7,},
     {"id":{"name":"spr_body","path":"sprites/spr_body/spr_body.yy",},"order":0,},
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},"order":14,},
+    {"id":{"name":"MS","path":"scripts/MS/MS.yy",},"order":0,},
     {"id":{"name":"leg4_1","path":"objects/leg4_1/leg4_1.yy",},"order":11,},
     {"id":{"name":"body","path":"objects/body/body.yy",},"order":0,},
     {"id":{"name":"leg3_1","path":"objects/leg3_1/leg3_1.yy",},"order":8,},
@@ -102,6 +104,7 @@
     {"folderPath":"folders/Objects/przeszkadzajki.yy","order":7,"resourceVersion":"1.0","name":"przeszkadzajki","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/spr_przeszkadzajki.yy","order":9,"resourceVersion":"1.0","name":"spr_przeszkadzajki","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/spr_.yy","order":10,"resourceVersion":"1.0","name":"spr_","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Scripts/MovementScripts.yy","order":9,"resourceVersion":"1.0","name":"MovementScripts","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
