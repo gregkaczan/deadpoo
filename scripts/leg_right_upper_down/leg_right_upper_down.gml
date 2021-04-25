@@ -3,5 +3,5 @@
 function leg_right_upper_down(leg){
 	phy_rotation = leg.phy_rotation - 10;
 	
-	go_left();
+	
 }
