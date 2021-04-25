@@ -1,21 +1,21 @@
 {
   "bboxMode": 0,
-  "collisionKind": 1,
+  "collisionKind": 0,
   "type": 0,
   "origin": 4,
   "preMultiplyAlpha": false,
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 45,
-  "bbox_right": 138,
-  "bbox_top": 41,
-  "bbox_bottom": 133,
+  "bbox_left": 12,
+  "bbox_right": 339,
+  "bbox_top": 8,
+  "bbox_bottom": 359,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 174,
-  "height": 172,
+  "width": 355,
+  "height": 371,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"c5994624-dd1b-46cb-be71-fc463914a90e","path":"sprites/spr_banka_mala/spr_banka_mala.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c5994624-dd1b-46cb-be71-fc463914a90e","path":"sprites/spr_banka_mala/spr_banka_mala.yy",},"LayerId":{"name":"65e32010-d75f-48dd-8782-04b2f0870a58","path":"sprites/spr_banka_mala/spr_banka_mala.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_banka_mala","path":"sprites/spr_banka_mala/spr_banka_mala.yy",},"resourceVersion":"1.0","name":"c5994624-dd1b-46cb-be71-fc463914a90e","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"c7a4b610-0d45-4ffc-9deb-251ec8263377","path":"sprites/spr_banka_mala/spr_banka_mala.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"c7a4b610-0d45-4ffc-9deb-251ec8263377","path":"sprites/spr_banka_mala/spr_banka_mala.yy",},"LayerId":{"name":"07ab3019-9016-44bb-8ded-00e7dc6d575c","path":"sprites/spr_banka_mala/spr_banka_mala.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_banka_mala","path":"sprites/spr_banka_mala/spr_banka_mala.yy",},"resourceVersion":"1.0","name":"c7a4b610-0d45-4ffc-9deb-251ec8263377","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"spr_banka_mala","path":"sprites/spr_banka_mala/spr_banka_mala.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"b895a47d-54cf-4936-90f3-652c21c12c7f","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c5994624-dd1b-46cb-be71-fc463914a90e","path":"sprites/spr_banka_mala/spr_banka_mala.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"6c3777a8-97f5-4d95-a0fb-2daabef23787","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c7a4b610-0d45-4ffc-9deb-251ec8263377","path":"sprites/spr_banka_mala/spr_banka_mala.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -54,8 +54,8 @@
     "backdropHeight": 768,
     "backdropXOffset": 0.0,
     "backdropYOffset": 0.0,
-    "xorigin": 87,
-    "yorigin": 86,
+    "xorigin": 177,
+    "yorigin": 185,
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_banka_mala","path":"sprites/spr_banka_mala/spr_banka_mala.yy",},
@@ -65,7 +65,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"65e32010-d75f-48dd-8782-04b2f0870a58","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"07ab3019-9016-44bb-8ded-00e7dc6d575c","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {

@@ -1,5 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
+show_debug_message(instance_number(przeszkadzajki));
+cleaner(6000)
+show_debug_message(instance_number(przeszkadzajki));
 
-cleaner(5000);
-alarm_set(5,120)
+alarm_set(5,300)

@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-other.phy_rotation += 1000;
+other.phy_rotation += 360;
 
 
 //if(alarm[2] == -1){

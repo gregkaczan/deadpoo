@@ -3,7 +3,7 @@
 function go_left() {
 	if global.mucha.energy >= 0 && global.mucha.exhausted == false {
 		with(body) {
-		    physics_apply_local_impulse(0,0, -5000,-7000);
+		    physics_apply_local_impulse(0,0, -23000,-25000);
 		}
 		global.mucha.energy -= 2;
 	}

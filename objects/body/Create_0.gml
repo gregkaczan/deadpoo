@@ -67,6 +67,7 @@ physics_fixture_bind(mainFixture, o_eye_1_id);
 physics_fixture_bind(mainFixture, o_eye_2_id);
 
 physics_fixture_bind(mainFixture, o_head_id);
+physics_fixture_bind(mainFixture, o_head_eyelids_id);
 
 global.joint1 = physics_joint_revolute_create(id, o_leg1_id, o_leg1_id.x, o_leg1_id.y, -130, 130, 1, 10, 10, 0, 0);
 global.joint1_1 = physics_joint_revolute_create(o_leg1_id, o_leg1_1_id, o_leg1_1_id.x, o_leg1_1_id.y, -130, 130, 1, 10, 10, 0, 0);
@@ -90,6 +91,7 @@ joint_wing_1 = physics_joint_revolute_create(id, o_wing_1_id, o_wing_1_id.x, o_w
 joint_wing_2 = physics_joint_revolute_create(id, o_wing_2_id, o_wing_2_id.x, o_wing_2_id.y, -90, 90, 1, 10, 10, 0, 0);
 
 jointhead = physics_joint_revolute_create(id, o_head_id, o_head_id.x, o_head_id.y, -15, 15, 1, 10, 10, 0, 0);
+
 
 physics_fixture_delete(mainFixture);
 

@@ -8,8 +8,8 @@
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "przeszkadzajki",
-    "path": "objects/przeszkadzajki/przeszkadzajki.yy",
+    "name": "banka",
+    "path": "objects/banka/banka.yy",
   },
   "physicsObject": true,
   "physicsSensor": false,
@@ -23,8 +23,8 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [
-    {"x":115.0,"y":156.0,},
-    {"x":74.0,"y":156.0,},
+    {"x":361.0,"y":374.0,},
+    {"x":229.0,"y":374.0,},
   ],
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"body","path":"objects/body/body.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
