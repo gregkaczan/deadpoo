@@ -93,5 +93,7 @@ jointhead = physics_joint_revolute_create(id, o_head_id, o_head_id.x, o_head_id.
 
 physics_fixture_delete(mainFixture);
 
+phy_rotation += 1270;
+
 
 tempy = mouse_y;
