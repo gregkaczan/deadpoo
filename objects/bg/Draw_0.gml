@@ -1,0 +1,1 @@
+draw_rectangle_colour(-52000, -2000, 52000, 10200, c_dkgray, c_dkgray, c_black, c_black, 0);
