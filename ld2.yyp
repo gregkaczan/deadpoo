@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"leg_right_upper_down","path":"scripts/leg_right_upper_down/leg_right_upper_down.yy",},"order":10,},
     {"id":{"name":"leg2_1","path":"objects/leg2_1/leg2_1.yy",},"order":15,},
     {"id":{"name":"leg6_1","path":"objects/leg6_1/leg6_1.yy",},"order":13,},
     {"id":{"name":"leg_left_up","path":"scripts/leg_left_up/leg_left_up.yy",},"order":1,},
@@ -39,6 +40,7 @@
     {"id":{"name":"czulek_2","path":"objects/czulek_2/czulek_2.yy",},"order":20,},
     {"id":{"name":"leg_left_upper_up","path":"scripts/leg_left_upper_up/leg_left_upper_up.yy",},"order":3,},
     {"id":{"name":"spr_leg1","path":"sprites/spr_leg1/spr_leg1.yy",},"order":3,},
+    {"id":{"name":"leg_right_upper_up","path":"scripts/leg_right_upper_up/leg_right_upper_up.yy",},"order":9,},
     {"id":{"name":"spr_banka","path":"sprites/spr_banka/spr_banka.yy",},"order":0,},
     {"id":{"name":"kosc","path":"objects/kosc/kosc.yy",},"order":4,},
     {"id":{"name":"spr_trabka","path":"sprites/spr_trabka/spr_trabka.yy",},"order":4,},
