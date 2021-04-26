@@ -165,8 +165,8 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"intro","path":"rooms/intro/intro.yy",},},
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"final_cutscene","path":"rooms/final_cutscene/final_cutscene.yy",},},
     {"roomId":{"name":"outro","path":"rooms/outro/outro.yy",},},
   ],
