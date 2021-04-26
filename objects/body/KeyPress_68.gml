@@ -1,1 +1,3 @@
-go_left();
+if room != credits {
+	go_left();
+}
