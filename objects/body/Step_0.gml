@@ -34,7 +34,7 @@ phy_angular_velocity = clamp(phy_angular_velocity, -2000, 2000);
 
 if (phy_position_y > -500) {
 	// fake buoancy
-	phy_linear_velocity_y -= 40;
+	phy_linear_velocity_x -= 40;
 } else {
 	physics_apply_force(x, y, 0, 80000);
 }
