@@ -1,3 +1,4 @@
+if room != credits {
 current += dir;
 if(current >= max){
     current = max;
@@ -17,4 +18,5 @@ timer++;
 if (global.mucha.dead == false) {
 	image_yscale = current;
 	image_xscale = current;
+}
 }

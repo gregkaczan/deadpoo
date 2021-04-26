@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-
+if room != credits {
 var damp = 5;
 
 //PooMouseDrowning(id,tempy);
@@ -38,4 +38,7 @@ if (phy_position_y > -500) {
 } else {
 	physics_apply_force(x, y, 0, 80000);
 }
-	
+} else if mouse_check_button(mb_left) {
+	phy_position_x = mouse_x;
+	phy_position_y = mouse_y;
+}
