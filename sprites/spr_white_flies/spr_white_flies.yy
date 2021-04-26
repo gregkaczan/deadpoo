@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"a2eda794-4481-44ae-b5eb-9c77a2af2e25","path":"sprites/spr_white_flies/spr_white_flies.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a2eda794-4481-44ae-b5eb-9c77a2af2e25","path":"sprites/spr_white_flies/spr_white_flies.yy",},"LayerId":{"name":"0d74a794-5234-4b78-a63e-85ca11062532","path":"sprites/spr_white_flies/spr_white_flies.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_white_flies","path":"sprites/spr_white_flies/spr_white_flies.yy",},"resourceVersion":"1.0","name":"a2eda794-4481-44ae-b5eb-9c77a2af2e25","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"6e19a521-c1d5-4339-98db-8882d83679ec","path":"sprites/spr_white_flies/spr_white_flies.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"6e19a521-c1d5-4339-98db-8882d83679ec","path":"sprites/spr_white_flies/spr_white_flies.yy",},"LayerId":{"name":"a5ace1f0-e871-4c1a-8674-27a7920d00ed","path":"sprites/spr_white_flies/spr_white_flies.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_white_flies","path":"sprites/spr_white_flies/spr_white_flies.yy",},"resourceVersion":"1.0","name":"6e19a521-c1d5-4339-98db-8882d83679ec","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"spr_white_flies","path":"sprites/spr_white_flies/spr_white_flies.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"bd5630bf-7698-480d-bb1e-0f00303a54b3","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a2eda794-4481-44ae-b5eb-9c77a2af2e25","path":"sprites/spr_white_flies/spr_white_flies.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"3cf647b8-8549-466b-b7f0-159a423dac14","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6e19a521-c1d5-4339-98db-8882d83679ec","path":"sprites/spr_white_flies/spr_white_flies.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -65,12 +65,12 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"0d74a794-5234-4b78-a63e-85ca11062532","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"a5ace1f0-e871-4c1a-8674-27a7920d00ed","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
-    "name": "outro",
-    "path": "folders/Sprites/outro.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_white_flies",
