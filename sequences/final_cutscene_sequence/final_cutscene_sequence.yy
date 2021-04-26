@@ -183,7 +183,7 @@
   ],
   "visibleRange": {
     "x": 0.0,
-    "y": 581.0,
+    "y": 583.0,
   },
   "lockOrigin": false,
   "showBackdrop": true,
