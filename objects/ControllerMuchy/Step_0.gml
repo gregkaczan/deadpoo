@@ -31,7 +31,7 @@ if (global.mucha.air < 2) {
 } else {
 	audio_stop_sound(snd_pantingfast);
 }
-var played = false;
+
 if (global.mucha.dead) {
 	audio_stop_sound(snd_panting);
 	audio_stop_sound(snd_pantingfast);

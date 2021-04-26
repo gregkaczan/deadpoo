@@ -9,3 +9,4 @@ global.mucha = {
 
 alarm_set(2, 120);
 draw_info = false;
+played = false;
