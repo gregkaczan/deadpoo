@@ -14,6 +14,7 @@
     {"id":{"name":"wing_2","path":"objects/wing_2/wing_2.yy",},"order":15,},
     {"id":{"name":"spr_strzykawka_tlo","path":"sprites/spr_strzykawka_tlo/spr_strzykawka_tlo.yy",},"order":16,},
     {"id":{"name":"spr_white_flies","path":"sprites/spr_white_flies/spr_white_flies.yy",},"order":33,},
+    {"id":{"name":"snd_buzzzzz","path":"sounds/snd_buzzzzz/snd_buzzzzz.yy",},"order":26,},
     {"id":{"name":"leg4","path":"objects/leg4/leg4.yy",},"order":10,},
     {"id":{"name":"czulek_1","path":"objects/czulek_1/czulek_1.yy",},"order":17,},
     {"id":{"name":"spr_covid","path":"sprites/spr_covid/spr_covid.yy",},"order":2,},
