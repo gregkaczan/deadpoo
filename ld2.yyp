@@ -102,6 +102,7 @@
     {"id":{"name":"go_left","path":"scripts/go_left/go_left.yy",},"order":6,},
     {"id":{"name":"ControllerMuchy","path":"objects/ControllerMuchy/ControllerMuchy.yy",},"order":5,},
     {"id":{"name":"head_eyelids","path":"objects/head_eyelids/head_eyelids.yy",},"order":21,},
+    {"id":{"name":"ControllerIntro","path":"objects/ControllerIntro/ControllerIntro.yy",},"order":13,},
     {"id":{"name":"czulek_2","path":"objects/czulek_2/czulek_2.yy",},"order":18,},
     {"id":{"name":"leg_left_upper_up","path":"scripts/leg_left_upper_up/leg_left_upper_up.yy",},"order":3,},
     {"id":{"name":"spr_leg1","path":"sprites/spr_leg1/spr_leg1.yy",},"order":3,},

@@ -35,5 +35,8 @@ if (global.mucha.air < 2) {
 if (global.mucha.dead) {
 	audio_stop_sound(snd_panting);
 	audio_stop_sound(snd_pantingfast);
-	audio_play_sound(snd_death, 1, 1);
+	
+	if (!audio_is_playing(snd_death)) {
+		audio_play_sound(snd_death, 1, 1);
+	}
 }
