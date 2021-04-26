@@ -31,12 +31,13 @@ if (global.mucha.air < 2) {
 } else {
 	audio_stop_sound(snd_pantingfast);
 }
-
+var played = false;
 if (global.mucha.dead) {
 	audio_stop_sound(snd_panting);
 	audio_stop_sound(snd_pantingfast);
 	
-	if (!audio_is_playing(snd_death)) {
+	if (!audio_is_playing(snd_death) && !played) {
+		played = true;
 		audio_play_sound(snd_death, 1, 0);
 	}
 }
