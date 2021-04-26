@@ -8,8 +8,9 @@ if check = true
 		var asset = layer_sprite_create(lay_id,body.phy_position_x,(body.phy_position_y+4000),spr_outro)
 		
 		
-		layer_sprite_xscale(asset,5)
+		layer_sprite_xscale(asset,3)
 		layer_sprite_yscale(asset,2)
+		
 		
 		check = false;
 		instance_create_depth(body.phy_position_x,body.phy_position_y+3500,701,end_trigger)

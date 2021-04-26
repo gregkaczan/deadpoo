@@ -89,6 +89,7 @@
     {"id":{"name":"ControllerEnd","path":"objects/ControllerEnd/ControllerEnd.yy",},"order":6,},
     {"id":{"name":"strzykawka","path":"objects/strzykawka/strzykawka.yy",},"order":12,},
     {"id":{"name":"spr_kaczka","path":"sprites/spr_kaczka/spr_kaczka.yy",},"order":8,},
+    {"id":{"name":"spr_kosc","path":"sprites/spr_kosc/spr_kosc.yy",},"order":21,},
     {"id":{"name":"snd_bankapop","path":"sounds/snd_bankapop/snd_bankapop.yy",},"order":11,},
     {"id":{"name":"lisc_tlo","path":"objects/lisc_tlo/lisc_tlo.yy",},"order":3,},
     {"id":{"name":"end_trigger","path":"objects/end_trigger/end_trigger.yy",},"order":0,},
@@ -169,8 +170,8 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"intro","path":"rooms/intro/intro.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"intro","path":"rooms/intro/intro.yy",},},
     {"roomId":{"name":"final_cutscene","path":"rooms/final_cutscene/final_cutscene.yy",},},
     {"roomId":{"name":"outro","path":"rooms/outro/outro.yy",},},
   ],

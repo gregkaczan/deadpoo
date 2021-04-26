@@ -6,7 +6,8 @@ function Gen(num,obj_id,obj_limit,spawn_range,layer_id){
 	repeat(num) {
 	rand_x = irandom_range(body.phy_position_x - (6600 *spawn_range), body.phy_position_x + (6600*spawn_range));
 	
-		instance_create_layer(rand_x,cam_y,layer_id,obj_id);
+	    if cam_y <= 58000 {	instance_create_layer(rand_x,cam_y,layer_id,obj_id); }
 	}
 	}
+	
 }

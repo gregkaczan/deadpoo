@@ -4,4 +4,4 @@
 // Inherit the parent event
 event_inherited();
 
-phy_rotation += irandom_range(0,360);
+phy_rotation += irandom_range(0,180);

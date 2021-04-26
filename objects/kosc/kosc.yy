@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_kosc_2",
-    "path": "sprites/spr_kosc_2/spr_kosc_2.yy",
+    "name": "spr_kosc",
+    "path": "sprites/spr_kosc/spr_kosc.yy",
   },
   "solid": false,
   "visible": true,
@@ -23,13 +23,12 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [
-    {"x":233.0,"y":215.0,},
-    {"x":2483.0,"y":215.0,},
-    {"x":2483.0,"y":614.0,},
-    {"x":233.0,"y":614.0,},
+    {"x":126.0,"y":333.0,},
+    {"x":3574.0,"y":333.0,},
+    {"x":3574.0,"y":805.0,},
+    {"x":126.0,"y":805.0,},
   ],
   "eventList": [
-    {"isDnD":false,"eventNum":1,"eventType":2,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":2,"eventType":2,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"body","path":"objects/body/body.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
