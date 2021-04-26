@@ -64,6 +64,7 @@
     {"id":{"name":"snd_kaczkabop","path":"sounds/snd_kaczkabop/snd_kaczkabop.yy",},"order":2,},
     {"id":{"name":"Sprite19","path":"sprites/Sprite19/Sprite19.yy",},"order":15,},
     {"id":{"name":"intro_title","path":"objects/intro_title/intro_title.yy",},"order":1,},
+    {"id":{"name":"snd_spitfire","path":"sounds/snd_spitfire/snd_spitfire.yy",},"order":21,},
     {"id":{"name":"spr_intro_fly_1","path":"sprites/spr_intro_fly_1/spr_intro_fly_1.yy",},"order":18,},
     {"id":{"name":"przeszkadzajka_tlo","path":"objects/przeszkadzajka_tlo/przeszkadzajka_tlo.yy",},"order":5,},
     {"id":{"name":"lisc","path":"objects/lisc/lisc.yy",},"order":10,},
