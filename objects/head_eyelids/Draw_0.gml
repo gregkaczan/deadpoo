@@ -1,3 +1,6 @@
+
+if room != credits {
+
 var ind = clamp(floor((global.mucha.maxenergy - global.mucha.energy) / global.mucha.maxenergy * 100 / 16), 0, 6);
 var s = ind;
 
@@ -13,3 +16,4 @@ if (ind == 6) {
 }
 
 draw_self();
+}
