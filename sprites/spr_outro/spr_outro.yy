@@ -10,12 +10,12 @@
   "bbox_left": 0,
   "bbox_right": 3380,
   "bbox_top": 0,
-  "bbox_bottom": 2512,
+  "bbox_bottom": 378,
   "HTile": false,
   "VTile": false,
   "For3D": false,
   "width": 3381,
-  "height": 2513,
+  "height": 379,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -25,7 +25,9 @@
   "gridY": 0,
   "frames": [
     {"compositeImage":{"FrameId":{"name":"74cf316b-278c-4fe3-bc96-aa2acfb8451d","path":"sprites/spr_outro/spr_outro.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"74cf316b-278c-4fe3-bc96-aa2acfb8451d","path":"sprites/spr_outro/spr_outro.yy",},"LayerId":{"name":"eeffce11-4476-433e-92c6-35197abf1d3b","path":"sprites/spr_outro/spr_outro.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"74cf316b-278c-4fe3-bc96-aa2acfb8451d","path":"sprites/spr_outro/spr_outro.yy",},"LayerId":{"name":"f598d63d-33c1-44d0-9f15-85802a9d8b5f","path":"sprites/spr_outro/spr_outro.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"74cf316b-278c-4fe3-bc96-aa2acfb8451d","path":"sprites/spr_outro/spr_outro.yy",},"LayerId":{"name":"7369085e-77c4-49c5-bc46-9fd2804854c6","path":"sprites/spr_outro/spr_outro.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"74cf316b-278c-4fe3-bc96-aa2acfb8451d","path":"sprites/spr_outro/spr_outro.yy",},"LayerId":{"name":"d83d4a2f-daf9-4d56-8ed8-33119bed6af8","path":"sprites/spr_outro/spr_outro.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"spr_outro","path":"sprites/spr_outro/spr_outro.yy",},"resourceVersion":"1.0","name":"74cf316b-278c-4fe3-bc96-aa2acfb8451d","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
@@ -41,7 +43,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"871b403e-7acd-4c83-b806-02804e6a76c9","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"74cf316b-278c-4fe3-bc96-aa2acfb8451d","path":"sprites/spr_outro/spr_outro.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"a0788e3b-d51e-46f8-b9b5-40b15dc54511","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"74cf316b-278c-4fe3-bc96-aa2acfb8451d","path":"sprites/spr_outro/spr_outro.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -55,7 +57,7 @@
     "backdropXOffset": 0.0,
     "backdropYOffset": 0.0,
     "xorigin": 1690,
-    "yorigin": 1256,
+    "yorigin": 189,
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_outro","path":"sprites/spr_outro/spr_outro.yy",},
@@ -65,7 +67,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"Layer 1 (2)","resourceVersion":"1.0","name":"eeffce11-4476-433e-92c6-35197abf1d3b","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"Layer 1","resourceVersion":"1.0","name":"d83d4a2f-daf9-4d56-8ed8-33119bed6af8","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {

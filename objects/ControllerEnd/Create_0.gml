@@ -1,4 +1,5 @@
 /// @description Insert description here
-// You can write your code in this editor
-temp = true;
-sprite_delete(spr_outro)
+
+//sprite_delete(spr_outro)
+lay_id = layer_get_id("END")
+check = true;
