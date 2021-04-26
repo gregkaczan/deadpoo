@@ -6,5 +6,7 @@ Gen(1,czaszka,7,3,"obj");
 Gen(1,can,4,6,"obj");
 Gen(1,lisc,5,6,"obj");
 Gen(1,robak,6,3,"obj");
+Gen(1,strzykawka,6,3,"obj");
+Gen(1,kaczka,6,3,"obj");
 
 alarm_set(1,150)

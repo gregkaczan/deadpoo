@@ -5,5 +5,7 @@ Gen(1,kosc_2_tlo,7,2,"tlo");
 Gen(1,can_tlo,7,2,"tlo");
 Gen(1,lisc_tlo,8,2,"tlo");
 Gen(1,robak_tlo,8,2,"tlo");
+Gen(1,robak_tlo,8,2,"tlo");
+Gen(1,robak_tlo,8,2,"tlo");
 
-alarm_set(2,100)
+alarm_set(2,220)
