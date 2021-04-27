@@ -1,4 +1,4 @@
-
+if room == Room1 {
 if (global.mucha.energy <= 100) {
 	global.mucha.energy += 0.1;
 }
@@ -40,4 +40,5 @@ if (global.mucha.dead) {
 		played = true;
 		audio_play_sound(snd_death, 1, 0);
 	}
+}
 }
